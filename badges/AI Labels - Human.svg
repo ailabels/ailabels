@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Human" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.73 87.87">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        font-size: 11px;
+      }
+
+      .cls-2, .cls-4 {
+        font-family: OpenSans-Light, 'Open Sans';
+        font-weight: 300;
+      }
+
+      .cls-3 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-size: 14px;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-size: 12px;
+      }
+
+      .cls-6 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <rect id="Background" class="cls-5" width="141.73" height="87.87" rx="5.67" ry="5.67"/>
+  <path id="Bottom_bar" data-name="Bottom bar" class="cls-1" d="m0,64.54h141.73v17.6c0,3.13-2.54,5.67-5.67,5.67H5.67C2.54,87.8,0,85.26,0,82.13v-17.6H0Z"/>
+  <text class="cls-4" transform="translate(40.36 80.53)"><tspan x="0" y="0">ailabels.org</tspan></text>
+  <text class="cls-3" transform="translate(76.96 38.75)"><tspan x="0" y="0">humans</tspan></text>
+  <text class="cls-2" transform="translate(92.26 21.44)"><tspan x="0" y="0">made by</tspan></text>
+  <text class="cls-2" transform="translate(85.37 54.04)"><tspan x="0" y="0">without AI</tspan></text>
+  <path id="Icon" class="cls-6" d="m26.99,13.43c0-1.9-1.54-3.44-3.44-3.44s-3.44,1.54-3.44,3.44v21.8l-3.48-8.66c-1.61-3.1-6.02-1.41-5.69,2.11-.01,3.39,3.39,18.02,5.69,21.46,2.81,4.67,9.11,8.03,14.95,8.03,8.87,0,16.07-6.05,16.07-14.92v-25.25c0-1.9-1.54-3.44-3.44-3.44s-3.44,1.54-3.44,3.44m-6.89,12.62V13.43m-6.89,17.21V11.13c0-1.9,1.54-3.44,3.44-3.44s3.44,1.54,3.44,3.44v2.3m0,0c0-1.9,1.54-3.44,3.44-3.44s3.44,1.54,3.44,3.44v4.59m0,0v12.62"/>
+</svg>

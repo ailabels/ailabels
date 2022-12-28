@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="AI" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.73 87.87">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #231f20;
+      }
+
+      .cls-4 {
+        font-size: 11px;
+      }
+
+      .cls-4, .cls-6 {
+        font-family: OpenSans-Light, 'Open Sans';
+        font-weight: 300;
+      }
+
+      .cls-5 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-size: 14px;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        font-size: 12px;
+      }
+    </style>
+  </defs>
+  <rect id="Background" class="cls-2" width="141.73" height="87.87" rx="5.67" ry="5.67"/>
+  <path id="Bottom_bar" data-name="Bottom bar" class="cls-3" d="m0,64.54h141.73v17.6c0,3.13-2.54,5.67-5.67,5.67H5.67c-3.13,0-5.67-2.54-5.67-5.67v-17.6h0Z"/>
+  <text class="cls-6" transform="translate(40.37 80.53)"><tspan x="0" y="0">ailabels.org</tspan></text>
+  <text class="cls-5" transform="translate(119.43 51.29)"><tspan x="0" y="0">AI</tspan></text>
+  <text class="cls-4" transform="translate(103.85 21.98)"><tspan x="0" y="0">made </tspan><tspan x="-26.63" y="13.2">primarily by</tspan></text>
+  <g id="Icon">
+    <rect class="cls-1" x="18.37" y="17.6" width="30.96" height="30.96"/>
+    <rect class="cls-1" x="27.3" y="26.71" width="13.28" height="13.28"/>
+    <line class="cls-1" x1="23.13" y1="48.56" x2="23.13" y2="58.83"/>
+    <line class="cls-1" x1="30.32" y1="48.56" x2="30.32" y2="58.83"/>
+    <line class="cls-1" x1="36.98" y1="48.56" x2="36.98" y2="58.83"/>
+    <line class="cls-1" x1="44.17" y1="48.56" x2="44.17" y2="58.83"/>
+    <line class="cls-1" x1="23.13" y1="7.34" x2="23.13" y2="17.6"/>
+    <line class="cls-1" x1="30.32" y1="7.34" x2="30.32" y2="17.6"/>
+    <line class="cls-1" x1="36.98" y1="7.34" x2="36.98" y2="17.6"/>
+    <line class="cls-1" x1="44.17" y1="7.34" x2="44.17" y2="17.6"/>
+    <line class="cls-1" x1="18.46" y1="22.56" x2="8.2" y2="22.56"/>
+    <line class="cls-1" x1="18.46" y1="29.75" x2="8.2" y2="29.75"/>
+    <line class="cls-1" x1="18.46" y1="36.42" x2="8.2" y2="36.42"/>
+    <line class="cls-1" x1="18.46" y1="43.61" x2="8.2" y2="43.61"/>
+    <line class="cls-1" x1="59.68" y1="22.56" x2="49.42" y2="22.56"/>
+    <line class="cls-1" x1="59.68" y1="29.75" x2="49.42" y2="29.75"/>
+    <line class="cls-1" x1="59.68" y1="36.42" x2="49.42" y2="36.42"/>
+    <line class="cls-1" x1="59.68" y1="43.61" x2="49.42" y2="43.61"/>
+  </g>
+</svg>
