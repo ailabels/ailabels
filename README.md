@@ -1,4 +1,4 @@
-# Voluntary product labeling for the responsible use of AI
+# AI Labels: A New Voluntary Content Framework
 
 # Summary
 The AI Labels specification seeks to provide a voluntary labeling scheme for creators who would like to clarify the role of AI in the creation of their work products. 
