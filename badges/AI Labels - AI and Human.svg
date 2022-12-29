@@ -1,76 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="AI_Human" data-name="AI + Human" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.73 87.87">
+<svg id="AI_Human" data-name="AI + Human" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 147.4 93.54">
   <defs>
     <style>
-      .cls-1, .cls-2, .cls-3 {
+      .cls-1 {
         fill: #231f20;
       }
 
       .cls-2 {
-        font-size: 11px;
-      }
-
-      .cls-2, .cls-4 {
-        font-family: OpenSans-Light, 'Open Sans';
-        font-weight: 300;
-      }
-
-      .cls-3 {
         font-family: OpenSans-Bold, 'Open Sans';
-        font-size: 14px;
         font-weight: 700;
       }
 
-      .cls-5 {
-        stroke: #000;
-        stroke-linecap: round;
-        stroke-linejoin: round;
+      .cls-2, .cls-3 {
+        font-size: 12px;
       }
 
-      .cls-5, .cls-6 {
-        fill: none;
-        stroke-width: 2px;
-      }
-
-      .cls-7, .cls-6 {
+      .cls-4 {
         stroke: #231f20;
         stroke-miterlimit: 10;
       }
 
-      .cls-7, .cls-4 {
+      .cls-4, .cls-3 {
         fill: #fff;
       }
 
-      .cls-4 {
-        font-size: 12px;
+      .cls-5 {
+        font-size: 11px;
+      }
+
+      .cls-5, .cls-3 {
+        font-family: OpenSans-Light, 'Open Sans';
+        font-weight: 300;
       }
     </style>
   </defs>
-  <rect id="Background" class="cls-7" width="141.73" height="87.87" rx="5.67" ry="5.67"/>
-  <path id="Bottom_bar" data-name="Bottom bar" class="cls-1" d="m0,64.54h141.73v17.6c0,3.13-2.54,5.67-5.67,5.67H5.67c-3.13,0-5.67-2.54-5.67-5.67v-17.6h0Z"/>
-  <text class="cls-4" transform="translate(40.37 80.53)"><tspan x="0" y="0">ailabels.org</tspan></text>
-  <text class="cls-3" transform="translate(89.27 33.29)"><tspan x="0" y="0">AI and</tspan><tspan x="-5.36" y="12">human</tspan></text>
-  <text class="cls-2" transform="translate(92.26 15.98)"><tspan x="0" y="0">made by</tspan></text>
-  <text class="cls-2" transform="translate(71.07 59.37)"><tspan x="0" y="0">collaboration</tspan></text>
-  <path id="Icon" class="cls-5" d="m51.21,27.89c0-1.41-1.14-2.55-2.55-2.55s-2.55,1.14-2.55,2.55v16.14l-2.57-6.41c-1.19-2.3-4.46-1.05-4.21,1.57-.01,2.51,2.51,13.34,4.21,15.89,2.08,3.45,6.74,5.95,11.07,5.95,6.57,0,11.89-4.48,11.89-11.04v-18.69c0-1.41-1.14-2.55-2.55-2.55s-2.55,1.14-2.55,2.55m-5.1,9.34v-12.74m-5.1,12.74v-14.44c0-1.41,1.14-2.55,2.55-2.55s2.55,1.14,2.55,2.55v1.7m0,0c0-1.41,1.14-2.55,2.55-2.55s2.55,1.14,2.55,2.55v3.4m0,0v9.34"/>
-  <g id="Icon-2" data-name="Icon">
-    <rect class="cls-6" x="12.34" y="12.2" width="22.92" height="22.92"/>
-    <rect class="cls-6" x="18.95" y="18.94" width="9.83" height="9.83"/>
-    <line class="cls-6" x1="15.86" y1="35.12" x2="15.86" y2="42.71"/>
-    <line class="cls-6" x1="21.18" y1="35.12" x2="21.18" y2="42.71"/>
-    <line class="cls-6" x1="26.12" y1="35.12" x2="26.12" y2="42.71"/>
-    <line class="cls-6" x1="31.44" y1="35.12" x2="31.44" y2="42.71"/>
-    <line class="cls-6" x1="15.86" y1="4.61" x2="15.86" y2="12.2"/>
-    <line class="cls-6" x1="21.18" y1="4.61" x2="21.18" y2="12.2"/>
-    <line class="cls-6" x1="26.12" y1="4.61" x2="26.12" y2="12.2"/>
-    <line class="cls-6" x1="31.44" y1="4.61" x2="31.44" y2="12.2"/>
-    <line class="cls-6" x1="12.41" y1="15.87" x2="4.81" y2="15.87"/>
-    <line class="cls-6" x1="12.41" y1="21.19" x2="4.81" y2="21.19"/>
-    <line class="cls-6" x1="12.41" y1="26.13" x2="4.81" y2="26.13"/>
-    <line class="cls-6" x1="12.41" y1="31.45" x2="4.81" y2="31.45"/>
-    <line class="cls-6" x1="42.92" y1="15.87" x2="35.32" y2="15.87"/>
-    <line class="cls-6" x1="42.92" y1="21.19" x2="35.32" y2="21.19"/>
-    <line class="cls-6" x1="42.92" y1="26.13" x2="35.32" y2="26.13"/>
-    <line class="cls-6" x1="42.92" y1="31.45" x2="35.32" y2="31.45"/>
-  </g>
+  <rect id="Background" class="cls-4" x="2.83" y="2.83" width="141.73" height="87.87" rx="5.67" ry="5.67"/>
+  <path id="Bottom_bar" data-name="Bottom bar" class="cls-1" d="m2.83,67.37h141.73v17.6c0,3.13-2.54,5.67-5.67,5.67H8.5c-3.13,0-5.67-2.54-5.67-5.67v-17.6h0Z"/>
+  <text class="cls-3" transform="translate(43.2 83.37)"><tspan x="0" y="0">ailabels.org</tspan></text>
+  <text class="cls-1" transform="translate(52.41 25.89)"><tspan class="cls-5"><tspan x="0" y="0">made by</tspan></tspan><tspan class="cls-2"><tspan x="-20.66" y="14.4">human and AI</tspan></tspan><tspan class="cls-5"><tspan x="-11.05" y="27.6">collaboration</tspan></tspan></text>
 </svg>
