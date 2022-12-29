@@ -6,7 +6,7 @@ The AI Labels specification seeks to provide a voluntary labeling scheme for cre
 The specification defines three levels of AI involvment:
 
 1. **Made by humans without AI** is the most restrictive mark. Work must be created by humans without AI assistance.
-2. **Made by AI and human collaboration** is the middle ground where AI generated compoennts of the product, but the work was modified significantly before publishing.  
+2. **Made by AI and human collaboration** is the middle ground where AI generated components of the product, but the work was modified significantly before publishing.  
 3. **Made primarily by AI** is the other end of the spectrum. The majority of the creative work was done by AI, although a human may have made modifications to the output before publishing.
 
 
