@@ -111,7 +111,10 @@ To use the label in your own work, you can use the blank template form and add y
 
 <img src="badges/AI Labels - Human and AI - Expanded - Blank.svg"
      alt="Made by humans with AI - Expanded"
-     style="width: 240px;" />       
+     style="width: 240px;" />  
+
+## Font
+The descriptor in the labels is set in [Alumni Sans](https://fonts.google.com/specimen/Alumni+Sans). The ailabels.org caption is set in [Inter](https://fonts.google.com/specimen/Inter).
 
 ## About
 The AI Labels specification was originally authored by [Zach Rattner](https://www.linkedin.com/in/zachrattner/), cofounder of [Yembo.ai](https://yembo.ai).
