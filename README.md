@@ -5,10 +5,9 @@ The AI Labels specification seeks to provide a voluntary labeling scheme for cre
 
 The specification defines three levels of AI involvment:
 
-1. **Made by humans without AI** is the most restrictive mark. Work must be created by humans without AI assistance.
-2. **Made by AI and human collaboration** is the middle ground where AI generated components of the product, but the work was modified significantly before publishing.  
-3. **Made primarily by AI** is the other end of the spectrum. The majority of the creative work was done by AI, although a human may have made modifications to the output before publishing.
-
+1. **Made by humans** is the most restrictive mark. Work must be created by humans without AI assistance.
+2. **Made primarily by AI** is the other end of the spectrum. The majority of the creative work was done by AI, although a human may have made modifications to the output before publishing.
+3. **Made by humans with AI** is the middle ground where AI generated components of the product, but the work was modified significantly before publishing.  
 
 The use of AI is nuanced and these three categorizations leaves room for interpretation. For example, using a spell checker or sentence autocompletion tool is quite different than generating paragraphs of text and then lightly editing before posting. The AI Labels specification aims to provide a solution to this nuanced problem.
 
@@ -63,20 +62,11 @@ The specification provides three categorizations for creative works. Publishers 
 
 For example, a book cover could provide the badge on the cover by the barcode. An online art gallery could provide the badge in the description of the piece.
 
-### Made by humans without AI
-The **Made by humans without AI** mark is the most restrictive mark. The work must be created by humans without AI assistance. The use of computers is permitted, but AI assistance as defined earlier cannot be used.
+### Made by humans
+The **Made by humans** mark is the most restrictive mark. The work must be created by humans without AI assistance. The use of computers is permitted, but AI assistance as defined earlier cannot be used.
 
 <img src="badges/AI Labels - Human.svg"
      alt="Made by humans without AI"
-     style="width: 240px;" />
-
-### Made by AI and human collaboration
-The **Made by AI and human collaboration** mark defines a mix of contributions between AI and humans. The mark shall be used in scenarios where both AI and humans made significant contributions, but the human contritubted significant components to the work. 
-
-For example, a song where the AI generated a riff and bass line, but a human wrote and recorded the lyrics would fall under this category.
-
-<img src="badges/AI Labels - AI and Human.svg"
-     alt="Made by AI and human collaboration"
      style="width: 240px;" />
 
 ### Made primarily by AI
@@ -89,6 +79,39 @@ If the human's primary contribution to the piece was [prompt engineering](https:
 <img src="badges/AI Labels - AI.svg"
      alt="Made primarily by AI"
      style="width: 240px;" />
+
+This category has some room for interpretation, so a variation can be used where there is real estate allocated to identify what specifically what the AI did. This option allows the creator of the work to specify in more detail what aspects of the work were done by AI versus humans.
+
+<img src="badges/AI Labels - AI - Expanded.svg"
+     alt="Made primarily by AI - Expanded"
+     style="width: 240px;" />     
+
+To use the label in your own work, you can use the blank template form and add your own descriptor:
+
+<img src="badges/AI Labels - AI - Expanded - Blank.svg"
+     alt="Made primarily by AI - Expanded"
+     style="width: 240px;" />
+
+### Made by humans with AI
+The **Made by humans with AI** mark defines a mix of contributions between human and AI. The mark shall be used in scenarios where both AI and humans made significant contributions, but the human contritubted significant components to the work. 
+
+For example, a song where the AI generated a riff and bass line, but a human wrote and recorded the lyrics would fall under this category.
+
+<img src="badges/AI Labels - Human and AI.svg"
+     alt="Made by humans with AI"
+     style="width: 240px;" />
+
+Similar to the AI-only case, this label can be expanded to provide additional clarity:
+
+<img src="badges/AI Labels - Human and AI - Expanded.svg"
+     alt="Made by humans with AI- Expanded"
+     style="width: 240px;" />   
+
+To use the label in your own work, you can use the blank template form and add your own descriptor:
+
+<img src="badges/AI Labels - Human and AI - Expanded - Blank.svg"
+     alt="Made by humans with AI - Expanded"
+     style="width: 240px;" />       
 
 ## About
 The AI Labels specification was originally authored by [Zach Rattner](https://www.linkedin.com/in/zachrattner/), cofounder of [Yembo.ai](https://yembo.ai).
